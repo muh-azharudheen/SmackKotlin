@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.azharudhen.smack_kotlin.CreateUserActivity">
+    tools:context="com.azharudhen.smack_kotlin.Controllers.Controller.Controller.Controller.CreateUserActivity">
 
     <EditText
         android:id="@+id/createUserNameText"

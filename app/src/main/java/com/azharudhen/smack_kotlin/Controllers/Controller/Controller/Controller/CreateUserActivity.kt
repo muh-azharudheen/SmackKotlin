@@ -1,10 +1,10 @@
-package com.azharudhen.smack_kotlin
+package com.azharudhen.smack_kotlin.Controllers.Controller.Controller.Controller
 
-import android.content.res.Resources
 import android.graphics.Color
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.azharudhen.smack_kotlin.R
 import kotlinx.android.synthetic.main.activity_create_user.*
 import java.util.*
 

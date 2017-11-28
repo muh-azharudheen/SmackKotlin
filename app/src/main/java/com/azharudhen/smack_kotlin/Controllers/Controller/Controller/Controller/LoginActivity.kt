@@ -1,9 +1,10 @@
-package com.azharudhen.smack_kotlin
+package com.azharudhen.smack_kotlin.Controllers.Controller.Controller.Controller
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.azharudhen.smack_kotlin.R
 
 class LoginActivity : AppCompatActivity() {
 
